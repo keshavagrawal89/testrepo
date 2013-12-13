@@ -1,4 +1,4 @@
 testrepo
 ========
-testing.. 
+testing
 
